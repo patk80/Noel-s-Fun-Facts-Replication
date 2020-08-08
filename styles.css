@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif
+}
+
+.header-links {
+    display: flex;
+    margin: 2rem 4rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-link-left {
+    font-size: 1.5rem;
+}
+
+.header-link-right {
+    font-size: 1.15rem;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+hr {
+    margin: 0 4rem;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 1.25rem;
+    margin: 1.5em;
+}
+
+.facts-section-grid-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2em;
+    grid-auto-rows: minmax(300px, auto);
+    padding: 0 4rem;
+}
+
+.fact-rectangle {
+    border: 6px solid #000;
+    font-size: 1.25rem;
+    padding: 1em;
+}
+
+.fact-rectangle p {
+    margin-bottom: 1em;
+}
+
+.twitter-paragraph {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button-section {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-weight: bold;
+    border: 3px solid #000;
+    border-bottom: 6px solid #000;
+    background-color: #fff; 
+    padding: 0.5em 1em;
+    font-size: 1.2rem;
+    margin: 2em 0;
+    cursor: pointer;
+}
+
+button i {
+    font-size: 0.75rem;
+}
+
+.about-section {
+    background-color: #ffcc01;
+    padding: 0 21em;
+}
+
+.about-h2 {
+    padding: 1.5em 0 0.25em 0;
+    font-size: 1.75rem;
+}
+
+.about-section h3 {
+    font-size: 1.2rem;
+    padding: 1em 0;
+    font-weight: 700;
+}
+
+.about-section p {
+    font-size: 1.1rem;
+    padding-bottom: 1.25em;
+}
+
+.havard-name {
+    font-weight: bold;
+    border-bottom: 2px solid #000;
+}
+
+.best-striketrough {
+    text-decoration: line-through;
+}
+
+footer {
+    font-size: 1rem;
+    background-color: #000;
+    color: #ffcc01;
+    text-align: center;
+    padding: 1em 0;
+}
+
+footer a {
+    color: #ffcc01;
+    font-weight: bold;
+    border-bottom: 1px solid #ffcc01;
+}
+
+
+
+
+#ffe47b
+
+#ffcc01
