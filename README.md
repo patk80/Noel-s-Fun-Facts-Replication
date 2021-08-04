@@ -1,2 +1,24 @@
-# Noel-s-Fun-Facts-Replication
-Noel's Fun Facts Website Replication - took the one page from https://noel.fun   /   https://onepagelove.com/noels-fun-facts and recreated it by eye
+# Noel's Fun Facts Replication
+**Languages:** HTML / CSS
+
+**Description:** A recreation of https://noel.fun I made using only HTML and CSS. I wanted to challenge myself to build a live web page by looking at it.
+
+## Screenshot of Noel's Fun Facts (https://noel.fun) website:
+
+**Desktop**
+
+![]()
+
+**Mobile**
+
+![]()
+
+## Screenshot of my version:
+
+**Desktop**
+
+![]()
+
+**Mobile**
+
+![]()
