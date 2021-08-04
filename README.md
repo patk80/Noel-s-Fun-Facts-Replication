@@ -11,7 +11,7 @@
 
 **Mobile**
 
-![](img/Noels-Fun-Facts-Mobile-Screenshot.png)
+![](img/Noels-Fun-Facts-Mobile-Screenshot-v2.png)
 
 ## Screenshot of my version:
 
