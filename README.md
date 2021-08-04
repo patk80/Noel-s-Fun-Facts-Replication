@@ -7,11 +7,11 @@
 
 **Desktop**
 
-![]()
+![](img/Noels-Fun-Facts-Desktop-Screenshot.png)
 
 **Mobile**
 
-![]()
+![](img/Noels-Fun-Facts-Mobile-Screenshot.png)
 
 ## Screenshot of my version:
 
